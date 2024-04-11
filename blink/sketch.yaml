@@ -1,0 +1,2 @@
+default_port: /dev/ttyS0
+default_fqbn: teensy:avr:teensy40
